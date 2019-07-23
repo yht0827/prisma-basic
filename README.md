@@ -1,7 +1,10 @@
 # prisma-basic
-Basic of Prisma
+## Basic of Prisma
 
 
-
-prisma deploy
-prisma generate
+-  npm install -g prisma
+-  prisma login -k [key]
+-  prisma init [projectname]
+-  npm init -y
+-  prisma deploy
+-  prisma generate
